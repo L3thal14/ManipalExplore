@@ -3,7 +3,7 @@
 
 #	MANIPAL EXPLORE(UI)
 
-[![GitHub stars](https://img.shields.io/github/stars/L3thal14/ManipalExplore.svg?logo=github)]([https://github.com/L3thal14/ManipalExplore/stargazers](https://github.com/L3thal14/ManipalExplore/stargazers)) [![GitHub forks](https://img.shields.io/github/forks/L3thal14ManipalExplore.svg?logo=github&color=teal)]([https://github.com/L3thal14/ManipalExplore/network/](https://github.com/L3thal14/ManipalExplore/network/))
+[![GitHub stars](https://img.shields.io/github/stars/L3thal14/ManipalExplore.svg?logo=github)]([https://github.com/L3thal14/ManipalExplore/stargazers](https://github.com/L3thal14/ManipalExplore/stargazers)) [![GitHub forks](https://img.shields.io/github/forks/L3thal14/ManipalExplore.svg?logo=github&color=teal)]([https://github.com/L3thal14/ManipalExplore/network/](https://github.com/L3thal14/ManipalExplore/network/))
 
 <b>To try it out:</b> APK is present inside the <b>apkfile</b> folder
 <br>
