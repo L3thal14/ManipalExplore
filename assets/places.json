@@ -1,0 +1,93 @@
+{
+    "places": [
+    {
+    "name": "AB-5",
+    "distance": "In Campus",
+    "imageurl": "assets/images/photos/AB-5.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis interdum sapien. Suspendisse venenatis ligula ante, non posuere arcu feugiat fermentum."
+    },
+    {
+        "name": "AB-2",
+        "distance": "In Campus",
+        "imageurl": "assets/images/photos/AB2.jpeg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis interdum sapien. Suspendisse venenatis ligula ante, non posuere arcu feugiat fermentum."
+    },
+    {
+        "name": "Arbi falls",
+        "distance": "2.5 kms from Campus",
+        "imageurl": "assets/images/photos/arbifalls.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis interdum sapien. Suspendisse venenatis ligula ante, non posuere arcu feugiat fermentum.",
+        "mapurl": "https://www.google.co.in/maps/dir/MIT,+Udupi+-+Karkala+Rd,+Eshwar+Nagar,+Manipal,+Karnataka/Arbi+Falls,+Dasharath+Nagar,+Manipal,+Karnataka+576104/@13.345168,74.7787582,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x3bbca4a7d2c4edb7:0x8d588d4fb81d861f!2m2!1d74.7928224!2d13.3525321!1m5!1m1!1s0x3bbca4b9b902bfe3:0x9e3b0f413701a350!2m2!1d74.793512!2d13.336749!3e0"
+    },
+    {
+        "name": "End Point",
+        "distance": "3.2 kms from Campus",
+        "imageurl": "assets/images/photos/endpoint.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis interdum sapien. Suspendisse venenatis ligula ante, non posuere arcu feugiat fermentum.",
+        "mapurl": "https://www.google.co.in/maps/dir/MIT,+Udupi+-+Karkala+Rd,+Eshwar+Nagar,+Manipal,+Karnataka/End+Point+Road,+Karnataka/@13.3516751,74.7841375,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x3bbca4a7d2c4edb7:0x8d588d4fb81d861f!2m2!1d74.7928224!2d13.3525321!1m5!1m1!1s0x3bbca4aa447adf79:0x348f821da358a0b!2m2!1d74.7840525!2d13.3559773!3e0"
+    },
+    {
+        "name": "Hoode Beach",
+        "distance": "17.2 kms from Campus",
+        "imageurl": "assets/images/photos/hoodebeach.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis interdum sapien. Suspendisse venenatis ligula ante, non posuere arcu feugiat fermentum.",
+        "mapurl": "https://www.google.co.in/maps/dir/MIT,+Udupi+-+Karkala+Rd,+Eshwar+Nagar,+Manipal,+Karnataka/Hoode+Beach+Udupi,+Kodi+Bengare+-+Hoode+Road,+Kodi+Bengare,+Karnataka/@13.3806597,74.7098065,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x3bbca4a7d2c4edb7:0x8d588d4fb81d861f!2m2!1d74.7928224!2d13.3525321!1m5!1m1!1s0x3bbcbddd71e4790f:0x83cd61fe1c3aa0aa!2m2!1d74.6963701!2d13.4157493!3e0"
+    },
+    {
+        "name": "Kaup Beach",
+        "distance": "22.2 kms from Campus",
+        "imageurl": "assets/images/photos/kaupbeach.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis interdum sapien. Suspendisse venenatis ligula ante, non posuere arcu feugiat fermentum.",
+        "mapurl": "https://www.google.co.in/maps/dir/MIT,+Udupi+-+Karkala+Rd,+Eshwar+Nagar,+Manipal,+Karnataka/Kapu+Beach,+Kapu+Beach+Road,+Ram+Nagar,+Kapu,+Karnataka/@13.2880627,74.6945035,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x3bbca4a7d2c4edb7:0x8d588d4fb81d861f!2m2!1d74.7928224!2d13.3525321!1m5!1m1!1s0x3bbcb11621151e45:0xf5e5f8e8e04f1ec8!2m2!1d74.737425!2d13.2233052!3e0"
+    },
+    {
+        "name": "Malpe Beach",
+        "distance": "13.4 kms from Campus",
+        "imageurl": "assets/images/photos/malpebeach.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis interdum sapien. Suspendisse venenatis ligula ante, non posuere arcu feugiat fermentum.",
+        "mapurl": "https://www.google.co.in/maps/dir/MIT,+Udupi+-+Karkala+Rd,+Eshwar+Nagar,+Manipal,+Karnataka/Malpe+Beach,+Udupi,+Karnataka/@13.3619673,74.7101712,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x3bbca4a7d2c4edb7:0x8d588d4fb81d861f!2m2!1d74.7928224!2d13.3525321!1m5!1m1!1s0x3bbcbc1a3ff8b9bd:0x7c5dbd41c1abb9c2!2m2!1d74.6970994!2d13.3648561!3e0"
+    },
+    {
+        "name": "Manipal Lake",
+        "distance": "2.3 kms from Campus",
+        "imageurl": "assets/images/photos/manipallake.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis interdum sapien. Suspendisse venenatis ligula ante, non posuere arcu feugiat fermentum.",
+        "mapurl": "https://www.google.co.in/maps/dir/MIT,+Udupi+-+Karkala+Rd,+Eshwar+Nagar,+Manipal,+Karnataka/Manipal+Lake,+Karnataka/@13.348238,74.7833531,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x3bbca4a7d2c4edb7:0x8d588d4fb81d861f!2m2!1d74.7928224!2d13.3525321!1m5!1m1!1s0x3bbca4b21901e6a9:0x339493c8788af673!2m2!1d74.7856385!2d13.3429096!3e0"
+    },
+    {
+        "name": "Mattu Beach",
+        "distance": "17.3 kms from Campus",
+        "imageurl": "assets/images/photos/mattubeach.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis interdum sapien. Suspendisse venenatis ligula ante, non posuere arcu feugiat fermentum.",
+        "mapurl": "https://www.google.co.in/maps/dir/MIT,+Udupi+-+Karkala+Rd,+Eshwar+Nagar,+Manipal,+Karnataka/Mattu+Beach,+Karnataka/@13.3135949,74.7240811,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x3bbca4a7d2c4edb7:0x8d588d4fb81d861f!2m2!1d74.7928224!2d13.3525321!1m5!1m1!1s0x3bbcba65277d7c89:0xbce72c5845f20ae2!2m2!1d74.7249585!2d13.273482!3e0"
+    },
+    {
+        "name": "MIT Building",
+        "distance": "In Campus",
+        "imageurl": "assets/images/photos/MIT.jpeg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis interdum sapien. Suspendisse venenatis ligula ante, non posuere arcu feugiat fermentum."
+    },
+    {
+        "name": "NLH Road",
+        "distance": "In Campus",
+        "imageurl": "assets/images/photos/NLHRoad.jpeg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis interdum sapien. Suspendisse venenatis ligula ante, non posuere arcu feugiat fermentum."
+    },
+    {
+        "name": "Student Plaza",
+        "distance": "In Campus",
+        "imageurl": "assets/images/photos/studentplaza.JPG",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis interdum sapien. Suspendisse venenatis ligula ante, non posuere arcu feugiat fermentum."
+    },
+    {
+        "name": "Tiger Circle",
+        "distance": "1.1 kms from Campus",
+        "imageurl": "assets/images/photos/tc.jpeg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis interdum sapien. Suspendisse venenatis ligula ante, non posuere arcu feugiat fermentum.",
+        "mapurl": "https://www.google.co.in/maps/dir/MIT,+Udupi+-+Karkala+Rd,+Eshwar+Nagar,+Manipal,+Karnataka/Tiger+Circle+Petrol+Pump,+Madhav+Nagar,+Eshwar+Nagar,+Manipal,+Karnataka/@13.3524385,74.7874896,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x3bbca4a7d2c4edb7:0x8d588d4fb81d861f!2m2!1d74.7928224!2d13.3525321!1m5!1m1!1s0x3bbca4a97b135e3f:0xc25a1918adf31e92!2m2!1d74.7867944!2d13.3514833!3e0"
+    }
+    
+        ]
+    }
+            
+    
