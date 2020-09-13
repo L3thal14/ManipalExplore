@@ -12,19 +12,29 @@
 
 <br>
 <p align="center">
-  <img src="https://github.com/L3thal14/ManipalExplore/blob/master/assets/screenshots/splashpage.jpg?raw=true"  height="400" />  
+  <img src="https://github.com/L3thal14/ManipalExplore/blob/master/assets/screenshots/splashpage.jpg?raw=true"  height="400" />
   <br>
+    Splash Page  
+    <br>
 	  <img src="https://github.com/L3thal14/ManipalExplore/blob/master/assets/screenshots/weatherpage.jpg?raw=true"  height="400" />
-<br>
+	<br>
+	Weather Page
+	<br>
    <img src="https://github.com/L3thal14/ManipalExplore/blob/master/assets/screenshots/explorepage.jpg?raw=true"  height="400" />
   <br>
+  Explore Page
+  <br>
 	  <img src="https://github.com/L3thal14/ManipalExplore/blob/master/assets/screenshots/search.jpg?raw=true"  height="400" />
-	<br>
+ <br>
+ Search
+ <br>
   	  <img src="https://github.com/L3thal14/ManipalExplore/blob/master/assets/screenshots/detailspage.jpg?raw=true"  height="400" />
+  <br>
+  Details Page
   <br>
   <img src="https://github.com/L3thal14/ManipalExplore/blob/master/assets/screenshots/creatorpage.jpg?raw=true"  height="400" />
   <br>
-  
+  Creator Page
   <br>
   
 </p>
